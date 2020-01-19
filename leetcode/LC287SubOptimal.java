@@ -6,6 +6,7 @@ public class LC287SubOptimal {
 		int[] arr = {3,1,3,4,2};
 		int dup = findDuplicate(arr);
 		System.out.println(dup);
+		
 	}
 
 	public static int findDuplicate(int[] nums) {
